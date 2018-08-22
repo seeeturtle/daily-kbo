@@ -10,4 +10,6 @@ FIXME
 
 ## License
 
-FIXME
+Copyright © 2018 Joshua Chung
+
+Released under the MIT license.
